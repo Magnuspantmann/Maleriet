@@ -1,0 +1,148 @@
+h1{
+
+text-align: center;
+font-family:helvetica;
+font-size: 70px;
+font-weight: bold;
+color: khaki;
+
+
+
+
+div1
+  box-sizing: border-box;
+  width: 70%;
+
+margin: auto;
+background-image: url(pattern.jpeg);
+}
+
+p{
+
+
+  font-family:helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+
+    box-sizing: border-box;
+    width: 70%;
+
+  margin: auto;
+  background-color: mediumspringgreen;
+
+
+}
+
+
+p2{
+
+
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+
+
+}
+
+p3{
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+
+
+
+}
+
+p4{
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+  color: blue;
+
+  }
+
+
+.img1{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+
+
+}
+
+
+
+p5{
+  font-family:helvetica;
+  font-weight: bold;
+  color: white;
+
+  background-color: lightcoral;
+  font-size: 32px;
+  margin-left: 215px;
+
+
+}
+
+p6,p7{
+
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+
+
+}
+
+
+p8{
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+color: blue;
+
+}
+
+
+p9{
+
+  font-family:helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+
+  background-color: skyblue;
+  margin-left: 215px;
+
+
+}
+
+p10{
+
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+
+}
+
+
+p11{
+  font-family:helvetica;
+  font-size: 14px;
+  margin-left: 215px;
+
+}
+
+p12{
+
+  font-family:helvetica;
+  font-size: 14px;
+  color: blue;
+  height: 90px;
+  width: 270px;
+
+
+}
